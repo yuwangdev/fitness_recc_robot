@@ -1,0 +1,35 @@
+{
+  "lifeStyleForActConsumption": "medium",
+  "isMale": true,
+  "height": 1.85,
+  "weight": 103.0,
+  "age": 25.0,
+  "neck": 43.0,
+  "abdomen": 116.0,
+  "foodRequestLis": [
+    {
+      "foodName": "1 egg",
+      "quant": 2.0
+    },
+    {
+      "foodName": "250ml soy milk",
+      "quant": 1.0
+    }
+  ],
+  "excersieRequestForCPAS": [
+    {
+      "name": "pushup",
+      "durationInMin": 25.5
+    },
+    {
+      "name": "squad",
+      "durationInMin": 27.5
+    }
+  ],
+  "deltaWeightGoal": 13.0,
+  "durationOfGoal": 365.0,
+  "time": "morning",
+  "foodStyle": "high protein",
+  "timeStamp": "2018-06-24 13:25:22.528",
+  "userId": "user1234"
+}
